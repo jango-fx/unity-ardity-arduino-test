@@ -9,3 +9,7 @@ Part of a "Physical Computing" course in the Game Art and Design program at HBK 
 
 TODO:
 - add Arduino code
+
+
+![](floating.gif)
+![](touch.gif)
